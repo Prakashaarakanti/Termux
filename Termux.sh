@@ -13,7 +13,8 @@ sleep 3
 figlet Good evening
 
 sleep 5
-toilet I LOVE BAA
+toilet good
+
 sleep 5
 cacafire
 sleep 2
