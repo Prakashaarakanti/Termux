@@ -14,6 +14,7 @@ figlet Good evening
 
 sleep 5
 toilet I LOVE BAA
+sleep 5
 cacafire
 sleep 2
 exit
