@@ -1,6 +1,7 @@
 sl
-cowsay Rey yerripooka
+
+cowsay yerripooka
 cacafire
 figlet good evening bava
-cmatrix
-exit
+
+
