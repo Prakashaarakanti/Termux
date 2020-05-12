@@ -5,7 +5,7 @@ cowsay yerripooka
 
 
 sleep 3
-figlet -f Good evening BAVA
+figlet Good evening BAVA
 sleep 5
 cacafire
 sleep 2
